@@ -2,4 +2,4 @@
 
 just repo contain old version of firefox mobile(android).
 
-**There too many apk which one i should install**
+**Information about apks in this repo**
