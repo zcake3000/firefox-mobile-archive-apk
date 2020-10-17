@@ -14,7 +14,7 @@ just repo contain old version of firefox mobile(android).
 
 [org.mozilla.fennec_fdroid_689420.apk](https://github.com/zcake3000/firefox-mobile-archive-apk/blob/main/org.mozilla.fennec_fdroid_689420.apk) is F-Droid build of firefox 68.12 (Fennec F-Droid).
 
-[org.gnu.icecat_680412.apk](https://github.com/zcake3000/firefox-mobile-archive-apk/blob/main/org.gnu.icecat_680412.apk) is rebranded firefox 68.4.2 founded in f-droid.(IceCatMobile)
+[org.gnu.icecat_680412.apk](https://github.com/zcake3000/firefox-mobile-archive-apk/blob/main/org.gnu.icecat_680412.apk) is rebranded firefox 68.4.2 which it avilables on f-droid.(IceCatMobile)
 
 **Source**
 
