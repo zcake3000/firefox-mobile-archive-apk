@@ -19,3 +19,5 @@ just repo contain old version of firefox mobile(android).
 **Source**
 
 [fennec-68.9.0.multi.android-aarch64.apk](https://github.com/zcake3000/firefox-mobile-archive-apk/blob/main/fennec-68.9.0.multi.android-aarch64.apk) and [fennec-68.9.0.multi.android-arm.apk](https://github.com/zcake3000/firefox-mobile-archive-apk/blob/main/fennec-68.9.0.multi.android-arm.apk) and [fennec-68.9.0.multi.android-i386.apk](https://github.com/zcake3000/firefox-mobile-archive-apk/blob/main/fennec-68.9.0.multi.android-i386.apk) and [fennec-68.9.0.multi.android-x86_64.apk](https://github.com/zcake3000/firefox-mobile-archive-apk/blob/main/fennec-68.9.0.multi.android-x86_64.apk) is come from [firefox official ftp server](https://ftp.mozilla.org/pub/mobile/releases/68.9.0/)
+
+[org.mozilla.fennec_fdroid_689420.apk](https://github.com/zcake3000/firefox-mobile-archive-apk/blob/main/org.mozilla.fennec_fdroid_689420.apk) is come from [f-droid(archived)](https://web.archive.org/web/20200914153140/https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
